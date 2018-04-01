@@ -9,6 +9,6 @@ setup(
     author_email='tonykuoyj@gmail.com',
     url='https://github.com/yaojenkuo/casino',
     #download_url = 'https://github.com/lukeskywalker/mypackage/archive/0.1.tar.gz',
-    keywords=['dice', 'poker', 'casino'],  # arbitrary keywords
+    keywords=['dice', 'poker', 'casino']  # arbitrary keywords
     #classifiers = [],
 )

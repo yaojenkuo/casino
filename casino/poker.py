@@ -1,8 +1,11 @@
 # coding=utf-8
 from random import choice
 
-def card_deal():
-    '發撲克牌'
+
+def deal_a_card():
+    """
+    Deal a card
+    """
     spades = []
     hearts = []
     diamonds = []
